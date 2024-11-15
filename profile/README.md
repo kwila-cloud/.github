@@ -9,6 +9,6 @@ Coming Soon!
 - [ ] Create home page
 - [ ] Implement demo app
 - [ ] Host demo business inventory app
-  - [ ] Create opens source `business-inventory` repo
+  - [ ] Create open source `business-inventory` repo
     - [ ] Based on [Home Inventory](https://github.com/el-apps/Home-Inventory)
   - [ ] Deploy
