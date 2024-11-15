@@ -9,3 +9,6 @@ Coming Soon!
 - [ ] Create home page
 - [ ] Implement demo app
 - [ ] Host demo business inventory app
+  - [ ] Create "business-inventory" repo
+    - [ ] Based on [Home Inventory](https://github.com/el-apps/Home-Inventory)
+  - [ ] Deploy
